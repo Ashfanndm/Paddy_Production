@@ -1,0 +1,23 @@
+<html>
+<head><title>Azran Web Page</title>
+</head>
+<body>
+<h1><center>Wellcome To My Web Page</center></h1> 
+
+<p> <b>Hello Guys </b> This is my first web page </p>
+<img src="file:///C:/Users/Azran/Desktop/photos/angry.png"height="200" weight="100"> 
+
+<p>If you like listen my favourite song?</p> 
+
+<a href="file:///C:/Users/Azran/Desktop/sngs/Taio%20Cruz%20-%20There%20She%20Goes%20(%20mq%20).mp3"><b>CLICK HERE</b></a>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
